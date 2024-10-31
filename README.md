@@ -1,10 +1,10 @@
-# Hey there! 👋💪
-
+## Hey there! 👋💪
 I'm **San**,  
 a **Computer Science** major from **Bar-Ilan University** with a strong passion for **Software Development** and **DevOps**. I’m actively seeking a **Full Stack** or **Backend Engineer** role where I can apply my skills and continue to grow professionally.
 
-Feel free to connect with me on LinkedIn!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanh/)
+**🔗 Connect with Me :)**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanh)
 
 ## 🛠️ About Me
 In my GitHub, you’ll find a variety of projects showcasing my skills in **Web Development** and **Android App Development**. Some of my notable projects include:
