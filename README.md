@@ -1,5 +1,5 @@
 ## Hey there! 👋💪
-I'm **San**,  
+I'm **San Haviv**,  
 a **Computer Science** major from **Bar-Ilan University** with a strong passion for **Software Development** and **DevOps**. I’m actively seeking a **Full Stack** or **Backend Engineer** role where I can apply my skills and continue to grow professionally.
 
 **🔗 Connect with Me :)**
