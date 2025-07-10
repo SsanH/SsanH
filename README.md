@@ -1,6 +1,6 @@
 ## Hey there! 👋💪
 I'm **San Haviv**,  
-a **Computer Science** major from **Bar-Ilan University** with a strong passion for **Software Development** and **DevOps**. I’m actively seeking a **Full Stack** or **Backend Engineer** role where I can apply my skills and continue to grow professionally.
+a **Computer Science** graduate from **Bar-Ilan University** with a strong passion for **Software Development** and **DevOps**. I’m actively seeking a **Full Stack** or **Backend Engineer** role where I can apply my skills and continue to grow professionally.
 
 **🔗 Connect with Me :)**
 
@@ -10,9 +10,10 @@ a **Computer Science** major from **Bar-Ilan University** with a strong passion 
 In my GitHub, you’ll find a variety of projects showcasing my skills in **Web Development** and **Android App Development**. Some of my notable projects include:
 - **WhatsApp App** 📲 and **YouTube App** 🎬 built using **React, Node.js, and JavaScript**.
 - **Android apps** developed in **Android Studio** with **Java**.
+- **LipCode** an AI lip-reading model that reads
 
 ## 🚀 Current Focus
-I’ve set a personal goal to solve **one medium and one easy problem on LeetCode every day** to sharpen my problem-solving skills 🧠. I’m also expanding my expertise by taking a **Python course on Udemy** to broaden my skillset ⚙️.
+I’ve set a personal goal to solve **one medium and one easy problem on LeetCode every day** to sharpen my problem-solving skills 🧠. I’m also expanding my expertise by taking a **Python course and Devops course on Udemy** and  to broaden my skillset ⚙️.
 
 ## 💻 Technical Skills
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
